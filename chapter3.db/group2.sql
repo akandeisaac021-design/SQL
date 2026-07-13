@@ -1,3 +1,7 @@
+create database STUDENT_INFO;
+
+USE STUDENT_INFO;
+
 CREATE TABLE STUDENT (
     StudentNumber INT PRIMARY KEY,
     StudentName VARCHAR(100),
